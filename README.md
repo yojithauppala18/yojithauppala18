@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Yojitha Uppala (yojithauppala18)
 
-<!--
-**yojithauppala18/yojithauppala18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm passionate about **Data Science**, **Machine Learning**, and turning data into meaningful insights.
 
-Here are some ideas to get you started:
+💡 Currently learning and working on real-world projects involving:
+- Python for data analysis
+- Predictive modeling
+- Visualization with tools like Matplotlib & Seaborn
+- SQL and basic data engineering concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 I enjoy exploring data to uncover trends, build models, and contribute to impactful decision-making.
+
+📫 **How to reach me**:
+- [LinkedIn](https://www.linkedin.com/in/yojithauppala/) – Let’s connect!
+
+🌱 Always open to collaboration, internships, or mentorship opportunities in the field of Data Science.
